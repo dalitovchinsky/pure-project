@@ -1,0 +1,18 @@
+body{
+font-family: 'Quicksand', sans-serif;   
+}
+
+.page{
+
+padding: 200px;    
+background-color: black;
+color:white;
+width: 200px;  
+height:200px;
+
+}
+
+.main-menu {
+  position: relative;
+  overflow: right ;
+}
